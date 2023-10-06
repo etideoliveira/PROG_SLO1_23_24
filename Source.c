@@ -1,6 +1,6 @@
 //Diviseur binaire
 #include <stdio.h>
-
+//coucou
 void main(void)
 {
 	int ValDec = 0;
