@@ -1,0 +1,5 @@
+﻿  Ex3_V02.c
+C:\EDA\PROG\PROG_SLO1_23_24\Exercice\Exo3\EDO\Ex.3\Ex.3\Ex3_V02.c(28,9): warning C4101: 'surface' : variable locale non référencée
+C:\EDA\PROG\PROG_SLO1_23_24\Exercice\Exo3\EDO\Ex.3\Ex.3\Ex3_V02.c(28,18): warning C4101: 'rayon' : variable locale non référencée
+C:\EDA\PROG\PROG_SLO1_23_24\Exercice\Exo3\EDO\Ex.3\Ex.3\Ex3_V02.c(29,6): warning C4101: 'lettre' : variable locale non référencée
+  Ex.3.vcxproj -> C:\EDA\PROG\PROG_SLO1_23_24\Exercice\Exo3\EDO\Ex.3\x64\Debug\Ex.3.exe
