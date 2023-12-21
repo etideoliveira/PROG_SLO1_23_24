@@ -62,7 +62,7 @@ int main(void)
 
 	printf ("Traitement cas D \n");
 	ResD1 = D1 / D2;
-	ResD2 = D1 - ResD1*D2;
+	ResD2 = D1 - ResD1 * D2;
 	printf ("Division de D1 %4d par D2 %4d = %4d Reste = %4d \n",D1, D2,ResD1, ResD2);
 
   return(0);
